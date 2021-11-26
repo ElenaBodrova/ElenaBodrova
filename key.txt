@@ -1,0 +1,15 @@
+SHA256:8q2PpVZAQ0v7m5TEvCUHfuAvhC1dZVnOGCf3o9wzpFw 555lenka@mail.ru
+The key's randomart image is:
++--[ED25519 256]--+
+|       .o o ..=o+|
+|       .o@ + ..O.|
+|       .=.@ + .E+|
+|        .= Oo * .|
+|      . S.* .= + |
+|       o o.+    o|
+|        ..=      |
+|        .=       |
+|       .+..      |
++----[SHA256]-----+
+
+Agent pid 2192
